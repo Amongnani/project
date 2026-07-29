@@ -1,2 +1,5 @@
-target/
-*.class
+__pycache__/
+*.pyc
+*.joblib
+data/forecast_vs_actual.csv
+data/next_week_forecast.csv
